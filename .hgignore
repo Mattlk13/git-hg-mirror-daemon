@@ -1,0 +1,11 @@
+syntax: glob
+desktop.ini
+obj/
+bin/
+*.suo
+*.sln.cache
+*.orig
+*.user
+*Thumbs.db
+packages/
+.vs/
